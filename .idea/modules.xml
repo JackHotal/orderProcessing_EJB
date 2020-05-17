@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJBOrderProcessing.iml" filepath="$PROJECT_DIR$/EJBOrderProcessing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrderProcessingBean/OrderProcessingBean.iml" filepath="$PROJECT_DIR$/OrderProcessingBean/OrderProcessingBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteLib/RemoteLib.iml" filepath="$PROJECT_DIR$/RemoteLib/RemoteLib.iml" />
+    </modules>
+  </component>
+</project>

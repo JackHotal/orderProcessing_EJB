@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" build-on-make="true" name="OrderProcessingBean:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OrderProcessingBean_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="OrderProcessingBean/ejb/EJB" />
+      <element id="module-output" name="OrderProcessingBean" />
+      <element id="module-output" name="RemoteLib" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/OPLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
